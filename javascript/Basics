@@ -1,0 +1,12 @@
+
+🔥 == vs ===: What's the Difference?
+Comparison	       Name	          Type Conversion	  Example	                 Result
+==	          Loose Equality	     ✅ Yes	      "5" == 5→ string to number	true
+===	          Strict Equality	     ❌ No	      "5" === 5	                    false
+
+0 == false        // true
+"" == false       // true
+null == undefined // true
+"0" == 0          // true
+
+Template literals are a modern way (ES6 feature) to create strings in JavaScript using backticks (`), not single quotes (') or double quotes (").
