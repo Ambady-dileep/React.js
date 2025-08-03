@@ -13,10 +13,50 @@
 // const total = nums.reduce((acc,curr)=>acc+curr,0);
 // console.log(total); 
 
-// Find the maximum
-const nums = [5, 12, 8, 21];
-const result = nums.reduce((arr,curr)=>curr>arr?curr:acc,nums[0]);
-console.log(max)
+// // Find the maximum
+// const nums = [5, 12, 8, 21];
+// const result = nums.reduce((arr,curr)=>curr>arr?curr:acc,nums[0]);
+// console.log(max)
+
+// Combine strings
+const words = ["Ambady", "is", "learning"];
+const sentence = words.reduce((acc,word)=>acc+' '+word);
+console.log(sentence)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
