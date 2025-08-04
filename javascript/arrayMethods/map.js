@@ -35,3 +35,18 @@
 // const words = ["Ambady", "Rahul"]
 // const result = words.map(word=>`Hello ${word}`)
 // console.log(result)
+
+
+//  2. map() – 5 Questions
+// (Transforms arrays into new ones)
+
+// Square each number in [1, 2, 3, 4].
+
+// Convert ["dog", "cat", "cow"] to uppercase.
+
+// From [1, 2, 3], create ["Number: 1", "Number: 2", "Number: 3"].
+
+// Add 5 to every number in [10, 20, 30, 40].
+
+// From ["Ambady", "Rahul"] create greetings like ["Hello Ambady", "Hello Rahul"].
+

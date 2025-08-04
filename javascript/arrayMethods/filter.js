@@ -23,3 +23,15 @@
 // const startsWithA = names.filter(name => name.startsWith("A"));
 // console.log(startsWithA); // ["Ambady", "Anu"]
 
+// 📌 3. filter() – 5 Questions
+// (Select elements based on condition)
+
+// From [5, 10, 15, 20], filter numbers greater than 10.
+
+// From [12, 14, 19, 21], filter only even numbers.
+
+// From ["apple", "banana", "grape"], filter words starting with "a".
+
+// From [50, 70, 90, 20], filter numbers less than 60.
+
+// From ["cat", "dog", "elephant", "fox"], filter words with length > 3.

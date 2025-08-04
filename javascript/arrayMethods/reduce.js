@@ -18,12 +18,28 @@
 // const result = nums.reduce((arr,curr)=>curr>arr?curr:acc,nums[0]);
 // console.log(max)
 
-// Combine strings
-const words = ["Ambady", "is", "learning"];
-const sentence = words.reduce((acc,word)=>acc+' '+word);
-console.log(sentence)
+// // Combine strings
+// const words = ["Ambady", "is", "learning"];
+// const sentence = words.reduce((acc,word)=>acc+' '+word);
+// console.log(sentence)
+
+// 📌 4. reduce() – 5 Questions
+// (Reduce array to one value)
 
 
+// Find the sum of [1, 2, 3, 4, 5].
+
+
+// Find the maximum value in [3, 66, 2, 99, 45].
+
+
+// Multiply all numbers in [2, 3, 4].
+
+
+// Count total characters in ["hi", "hello", "bye"].
+
+
+// Join words in ["You", "got", "this"] into "You got this".
 
 
 
