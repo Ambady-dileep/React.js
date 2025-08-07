@@ -1,6 +1,6 @@
 // // findIndex() ➡ Returns the index of the first match.Finds index based on a condition, Any complex condition or logic
 // const nums = [5, 10, 15];
-// const index = nums.findIndex(n => n > 8);
+// const index = nums.findIndex(n => n > 11);
 // console.log(index); // 1
 
 // findIndex() - (Returns the index of the first matching element)
